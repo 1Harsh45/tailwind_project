@@ -11,9 +11,9 @@ This is a simple clone of Twitter's landing page, built using **HTML** and **Tai
 
 ## 📸 Screenshots
 
-![Screenshot](./screenshot 1.png)  
+![Screenshot](./screenshot1.png)  
 
-![Screenshot](./screenshot 2.png)  
+![Screenshot](./screenshot2.png)  
 
 
 ## 🛠️ Technologies Used

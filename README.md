@@ -9,12 +9,6 @@ This is a simple clone of Twitter's landing page, built using **HTML** and **Tai
 - Built entirely with Tailwind CSS utility classes
 - Fast and lightweight (no frameworks)
 
-## 📸 Screenshots
-
-![Screenshot](./screenshot1.png)  
-
-![Screenshot](./screenshot2.png)  
-
 
 ## 🛠️ Technologies Used
 
